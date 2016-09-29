@@ -1,4 +1,4 @@
 git_training
 ============
 
-Training repository for Bios301 students for to play with. What?
+Training repository for Bios301 for stupids to play with. What?
